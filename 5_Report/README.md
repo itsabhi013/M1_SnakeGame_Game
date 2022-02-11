@@ -35,3 +35,13 @@ The Snake Game project is a console based simple project which is designed witho
 * players data is stored at the end of the game.
 * it can assist the user to concentrate on the game.
 * It is secure,reliable as in future if we want to add profile section in this game it will be secured.
+
+# Image 1:
+![Interface](https://user-images.githubusercontent.com/98874671/153626816-8b17e54e-75ee-4f0d-88d8-02e66d6e11e4.PNG)
+
+
+
+# Images 2:
+![game](https://user-images.githubusercontent.com/98874671/153626883-cac659c4-2bc7-416a-bb4d-79bffc92aafb.PNG)
+
+
