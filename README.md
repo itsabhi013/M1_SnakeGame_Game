@@ -37,5 +37,15 @@ The Snake Game project is a console based simple project which is designed witho
 # Code Quality - Codiga:- https://app.codiga.io/public/project/30984/M1_SnakeGame_Game/dashboard 
 
 # Codiga Screenshot:- 
+* 1
 ![codinga grade](https://user-images.githubusercontent.com/98874671/153629203-41227a0d-aaeb-4c71-81c1-98bd5d7c6bcf.PNG)
+
+* 2
+ ![no of lines](https://user-images.githubusercontent.com/98874671/153630766-f483080d-a02c-4d25-8ac1-b52419607bf2.PNG)
+ 
+ * 3
+  ![long vibe](https://user-images.githubusercontent.com/98874671/153630893-4535a04a-33fc-4010-84bb-a9055a94ed80.PNG)
+
+
+
 
