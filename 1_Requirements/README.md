@@ -48,3 +48,7 @@ https://www.geeksforgeeks.org/snake-game-in-c/
 * it can assist the user to concentrate on the game.
 * It is secure,reliable as in future if we want to add profile section in this game it will be secured
 
+
+* Image 1:![Interface](https://user-images.githubusercontent.com/98874671/153588690-377d69c9-10ad-43c5-87a8-05366791db35.PNG)
+* Image 2:![game](https://user-images.githubusercontent.com/98874671/153588762-9117beac-abe5-4b28-a312-93a9fce1e69c.PNG)
+
