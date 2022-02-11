@@ -18,6 +18,6 @@ Graphics is not used in this project.
 
 High Level Requirements
 
-Build a boundary within which the game will be played.
+Build a boundary within which the game will be played. 
 The fruits are generated randomly.
 Then increase the score whenever the snake eats a fruit.
