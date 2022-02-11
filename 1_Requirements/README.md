@@ -10,12 +10,25 @@ https://www.geeksforgeeks.org/snake-game-in-c/
 
 # Strenght
 
-While playing this game you will feel realistic feel of mobile game.
+* While playing this game you will feel realistic feel of mobile game.
+* It is easy to implement.
+* Excellent user interface.
+
 
 # Weakness
 
 * Graphics is not used in this project.
 * Player profile is not there.
+
+# Opportunities
+
+* This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
+* Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point.
+
+# Threats
+
+* There are similar game developed in the world wide.
+* Increasing number of International competitors.
 
 # High Level Requirements
 
@@ -30,5 +43,8 @@ While playing this game you will feel realistic feel of mobile game.
 
 # 4w's and 1H
 
-*
+* The purpose of the game to entertain the people..
+* players data is stored at the end of the game.
+* it can assist the user to concentrate on the game.
+* It is secure,reliable as in future if we want to add profile section in this game it will be secured
 
