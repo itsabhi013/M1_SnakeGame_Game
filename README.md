@@ -27,3 +27,8 @@ The Snake Game project is a console based simple project which is designed witho
 * players data is stored at the end of the game.
 * it can assist the user to concentrate on the game.
 * It is secure,reliable as in future if we want to add profile section in this game it will be secured.
+
+
+<a href="https://app.codiga.io/public/user/github/itsabhi013">
+   <img src="https://api.codiga.io/public/badge/user/github/itsabhi013?style=light" alt="codiga badge" />
+</a>
