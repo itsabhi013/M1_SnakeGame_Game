@@ -1,4 +1,11 @@
 //LEARNPROGRAMO-PROGRAMMING MADE SIMPLE
+
+// I have taken the reference from learnprogramo.com
+
+
+
+
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
