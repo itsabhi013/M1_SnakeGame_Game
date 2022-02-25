@@ -47,5 +47,21 @@ The Snake Game project is a console based simple project which is designed witho
   ![long vibe](https://user-images.githubusercontent.com/98874671/153630893-4535a04a-33fc-4010-84bb-a9055a94ed80.PNG)
 
 
+| 0_Certificate | 1_Requirements | 2_Design | 3_Implementation | 4_TestPlanAndOutput | 5_Report | 6_Images_and_output | 7_Others |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Certification details of Student| Requirements and research detailing | Design Model of Project | All codes and make of the project | Requirements and Test Plan |  Project Report | Screenshot of the Project | Reference And Details |
 
+# Aim
 
+* Easy and convience for people to play game.
+* It will keep the record of the player who has played the game.
+* To control a snake to move and collect food in a map.
+* Main focus will be to full fill all the requirements with in the game.
+
+# Scope 
+
+The main work is to write a snake game using C programming language. This game will generate various problems related to mathematics. Player has to answer the questions by controlling a snake with keyboard keys [up, down, left, right] to eat the answer ball. Each correct answer ball eaten prolongs the snake’s life.
+
+* It satisfy users requirements.
+* It is easy to operate.
+* Have a good users interface.
