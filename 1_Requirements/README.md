@@ -1,3 +1,20 @@
+# Table
+
+| Sr No. | Title | Page No.|
+|:------:|:-----:|:-------:|
+| 1.| Introduction | 1 |
+| 2 | Requirements | 2 |
+|   | (i) High Level Requirements |   |
+|   | (ii) Low Level Requirements |   |
+| 3 | SWOT Analysis | 3 |
+| 4 | 4W's and 1H | 4 |
+
+
+
+
+
+
+
 #  Introduction:
 
 The Snake Game project is a console based simple project which is designed without using graphics.While playing the game you will feel realistic fell of mobile snake game.Which is as same as the mobile snake game only the difference is that the graphics are used in mobile game and we have not used graphics in the project.
