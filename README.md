@@ -28,10 +28,14 @@ The Snake Game project is a console based simple project which is designed witho
 * it can assist the user to concentrate on the game.
 * It is secure,reliable as in future if we want to add profile section in this game it will be secured.
 
+# BADGES
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7063f31ceeb34e518313eb8b92621eb8)](https://www.codacy.com/gh/itsabhi013/M1_SnakeGame_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=itsabhi013/M1_SnakeGame_Game&amp;utm_campaign=Badge_Grade)
 
 <a href="https://app.codiga.io/public/user/github/itsabhi013">
    <img src="https://api.codiga.io/public/badge/user/github/itsabhi013?style=light" alt="codiga badge" />
 </a>
+
 
 
 # Code Quality - Codiga:- https://app.codiga.io/public/project/30984/M1_SnakeGame_Game/dashboard 
