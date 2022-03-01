@@ -1,5 +1,7 @@
 # M1_SnakeGame_Game
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11573f3f541d4a6aaedb26819041c030)](https://app.codacy.com/gh/itsabhi013/M1_SnakeGame_Game?utm_source=github.com&utm_medium=referral&utm_content=itsabhi013/M1_SnakeGame_Game&utm_campaign=Badge_Grade_Settings)
+
 # Content
 * Introduction
 * WorkFlow
